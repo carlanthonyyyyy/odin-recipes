@@ -1,1 +1,1 @@
-# odin-recipes
+Hello guys, this will be my practice sing github and also to review my current knowledge in html and css, so in this project I will create a simple Baking recipe.# odin-recipes
